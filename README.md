@@ -35,7 +35,7 @@ Execution
 
 Assuming your executable is called "cpssim", run it typing  
 
-    ./cpssim 240 config.txt output.txt
+    ./cpssim 240 input output
     
 The program should take the following command line parameters in sequence
 
